@@ -1,6 +1,4 @@
-# 🎓 Projeto de Arquitetura de Sistemas
-
-## Conteúdo Abordado
+## 🎓 Projeto de Arquitetura de Sistemas
 
 - Princípios **SOLID**
 - **Padrões de Projeto (Design Patterns)**
