@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+import java.util.List;
 
-public class SortStrategy {
+public abstract class SortStrategy {
+    public abstract void sort(List<Integer> list);
 }
